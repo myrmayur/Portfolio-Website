@@ -95,6 +95,16 @@ function NavBar() {
             </Nav.Item>
             <Nav.Item>
               <Nav.Link
+                as={Link}
+                target="_blank"
+                to="/Mayur-R-Waghmare.pdf"
+                onClick={() => updateExpanded(false)}
+              >
+                Resume
+              </Nav.Link>
+            </Nav.Item>
+            <Nav.Item>
+              <Nav.Link
                 href="https://blog.rahuljha.info/"
                 target="_blank"
                 rel="noreferrer"
