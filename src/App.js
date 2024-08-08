@@ -24,6 +24,7 @@ function App() {
     const timer = setTimeout(() => {
       upadateLoad(false);
     }, 1200);
+Admin@123
 
     return () => clearTimeout(timer);
   }, []);
