@@ -15,7 +15,7 @@ You can fork this repo to modify and make changes according to your need. Please
 
 ## Built With
 
-My personal portfolio website <a href="https://drive.google.com/file/d/1P33agBuH6ym6lI3RapFk7lIxcnuz3ikX/view?usp=sharing" target="_blank">Mayur Waghmare</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio website <a href="https://portfolio-f5d22.web.app/" target="_blank">Mayur Waghmare</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project is built using these technologies.
 
