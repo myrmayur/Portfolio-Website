@@ -27,7 +27,7 @@ function Home2() {
               who loves Automation and New Technologies.
               <br />
               <br />a DevOps and Cloud Engineer with expertise in {" "}
-              <i className="primary-header">Linux system administration</i> and AWS cloud services.
+              <i className="primary-header">Linux administration</i> and AWS cloud services.
               <br />
               <br />I specialize in optimizing    
               <i>
