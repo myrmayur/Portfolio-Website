@@ -8,7 +8,7 @@ function Type() {
         strings: [
           "Computer Science Engineer",
           "Workings as a Linux System Administrator",
-          "wnats to works as a Cloud Engineer or DevOps Engineer",
+          "Wants to works as a Cloud Engineer or DevOps Engineer",
         ],
         autoStart: true,
         loop: true,
