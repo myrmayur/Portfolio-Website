@@ -15,7 +15,7 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '18'  # Or match your project's Node version
+          node-version: '20'  # Updated from 18 to 20 to support latest Firebase CLI
 
       - name: Install dependencies
         run: npm install
