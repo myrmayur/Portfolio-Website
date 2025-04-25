@@ -21,19 +21,19 @@ function Home2() {
             </h1>
             <p className="home-about-body" data-aos="fade-up">
               <br />
-              I'm a <i className="primary-header">
-                Self-Taught Devops Engineer
+              I'm a DevOps Engineer driven by a deep interest in <i className="primary-header">
+              automation, cloud technologies, and system reliability.
               </i>{" "}
-              who loves Automation and New Technologies.
+      
               <br />
-              <br />a DevOps and Cloud Engineer with expertise in {" "}
-              <i className="primary-header">Linux administration</i> and AWS cloud services.
+              <br />With hands-on experience in managing  {" "}
+              <i className="primary-header">Linux systems and AWS cloud services</i>, I focus on building scalable, secure, and high-performing infrastructure.
               <br />
-              <br />I specialize in optimizing    
+              <br />From setting up   
               <i>
-                <i className="primary-header"> cloud infrastructures, automating workflows, and enhancing system performance and security.</i>
+                <i className="primary-header"> CI/CD pipelines, and containerizing applications to monitoring performance and ensuring seamless deployments.</i>
               </i>
-              <br />
+              <br />I bring a practical, solutions-focused approach to modern DevOps practices.
               <br />Explore my projects to see how I've implemented{" "}
               <i className="primary-header">CI/CD pipelines</i> containerized applications, and managed scalable cloud environments.
         
@@ -81,7 +81,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="mayurwaghmare682@gmail.com"
+                  href="mailto:mayurwaghmare682@gmail.com"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -92,7 +92,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/myrmayur/"
+                  href="https://www.linkedin.com/in/mayurrw/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
