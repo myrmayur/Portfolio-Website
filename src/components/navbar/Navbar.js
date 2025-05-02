@@ -97,7 +97,7 @@ function NavBar() {
               <Nav.Link
                 as={Link}
                 target="_blank"
-                to="/home/mayur/Portfolio/Portfolio-Website/public/Mayur-R-Waghmare-Devops-9766918933.pdf"
+                href="/Mayur-R-Waghmare-Devops-9766918933.pdf"
                 onClick={() => updateExpanded(false)}
               >
                 Resume
@@ -105,7 +105,7 @@ function NavBar() {
             </Nav.Item>
             <Nav.Item>
               <Nav.Link
-                href="https://blog.rahuljha.info/"
+                href="https://blog.rahuljjjha.info/"
                 target="_blank"
                 rel="noreferrer"
               >
