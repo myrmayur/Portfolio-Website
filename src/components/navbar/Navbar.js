@@ -95,7 +95,7 @@ function NavBar() {
             </Nav.Item>
             <Nav.Item>
               <Nav.Link
-                as={Link}
+                as="a"
                 target="_blank"
                 href="/Mayur-R-Waghmare-Devops-9766918933.pdf"
                 onClick={() => updateExpanded(false)}
