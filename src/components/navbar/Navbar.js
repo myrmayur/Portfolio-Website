@@ -97,7 +97,7 @@ function NavBar() {
               <Nav.Link
                 as={Link}
                 target="_blank"
-                to="/Mayur-R-Waghmare-Devops-9766918933.pdf"
+                to="/home/mayur/Portfolio/Portfolio-Website/public/Mayur-R-Waghmare-Devops-9766918933.pdf"
                 onClick={() => updateExpanded(false)}
               >
                 Resume
